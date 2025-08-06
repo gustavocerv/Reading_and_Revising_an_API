@@ -1,4 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20038043)
 # 7.4 Final Project: Reading and Revising an API
 
 ## Before you Start
@@ -78,4 +77,5 @@ Finally, If you add a username parameter and a new authorization level, for exam
 | `/revise` test update auth existing user     | 10     |
 | `/revise` test update auth non existing user | 10     |
 | Code is submitted to github                  | 10     |
+
 | **Total**                                    | **50** |
